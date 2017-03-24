@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/browse/browse.iml" filepath="$PROJECT_DIR$/browse/browse.iml" />
+      <module fileurl="file://$PROJECT_DIR$/calendarlibrary/calendarlibrary.iml" filepath="$PROJECT_DIR$/calendarlibrary/calendarlibrary.iml" />
+      <module fileurl="file://$PROJECT_DIR$/healthlibrary/healthlibrary.iml" filepath="$PROJECT_DIR$/healthlibrary/healthlibrary.iml" />
+      <module fileurl="file://$PROJECT_DIR$/juslibs/juslibs.iml" filepath="$PROJECT_DIR$/juslibs/juslibs.iml" />
+      <module fileurl="file://$PROJECT_DIR$/mobilehealth.iml" filepath="$PROJECT_DIR$/mobilehealth.iml" />
+      <module fileurl="file://$PROJECT_DIR$/patient/patient.iml" filepath="$PROJECT_DIR$/patient/patient.iml" />
+      <module fileurl="file://$PROJECT_DIR$/refreshlibrary/refreshlibrary.iml" filepath="$PROJECT_DIR$/refreshlibrary/refreshlibrary.iml" />
+      <module fileurl="file://$PROJECT_DIR$/requestlibrary/requestlibrary.iml" filepath="$PROJECT_DIR$/requestlibrary/requestlibrary.iml" />
+    </modules>
+  </component>
+</project>

@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "D:\\SudioApplication\\mobilehealth\\refreshlibrary\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\xrefreshview_header.xml",
+        "source": "D:\\SudioApplication\\mobilehealth\\refreshlibrary\\build\\intermediates\\bundles\\debug\\res\\layout\\xrefreshview_header.xml"
+    },
+    {
+        "merged": "D:\\SudioApplication\\mobilehealth\\refreshlibrary\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\xrefreshview_footer.xml",
+        "source": "D:\\SudioApplication\\mobilehealth\\refreshlibrary\\build\\intermediates\\bundles\\debug\\res\\layout\\xrefreshview_footer.xml"
+    }
+]

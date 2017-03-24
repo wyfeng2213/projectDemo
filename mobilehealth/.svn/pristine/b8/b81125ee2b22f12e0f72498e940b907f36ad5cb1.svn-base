@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "D:\\SudioApplication\\mobilehealth\\refreshlibrary\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4\\xrefresh_ok.png",
+        "source": "D:\\SudioApplication\\mobilehealth\\refreshlibrary\\src\\main\\res\\drawable-hdpi\\xrefresh_ok.png"
+    },
+    {
+        "merged": "D:\\SudioApplication\\mobilehealth\\refreshlibrary\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4\\xrefreshview_arrow.png",
+        "source": "D:\\SudioApplication\\mobilehealth\\refreshlibrary\\src\\main\\res\\drawable-hdpi\\xrefreshview_arrow.png"
+    }
+]

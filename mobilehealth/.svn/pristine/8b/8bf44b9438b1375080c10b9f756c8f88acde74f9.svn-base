@@ -1,0 +1,46 @@
+[
+    {
+        "merged": "G:\\android\\mobilehealthcare\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi\\common_tab_icon_home_sel.png",
+        "source": "G:\\android\\mobilehealthcare\\app\\src\\main\\res\\mipmap-xhdpi\\common_tab_icon_home_sel.png"
+    },
+    {
+        "merged": "G:\\android\\mobilehealthcare\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi\\common_tab_icon_mine_sel.png",
+        "source": "G:\\android\\mobilehealthcare\\app\\src\\main\\res\\mipmap-xhdpi\\common_tab_icon_mine_sel.png"
+    },
+    {
+        "merged": "G:\\android\\mobilehealthcare\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi\\ic_launcher.png",
+        "source": "G:\\android\\mobilehealthcare\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "G:\\android\\mobilehealthcare\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi\\common_tab_icon_mine_nor.png",
+        "source": "G:\\android\\mobilehealthcare\\app\\src\\main\\res\\mipmap-xhdpi\\common_tab_icon_mine_nor.png"
+    },
+    {
+        "merged": "G:\\android\\mobilehealthcare\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi\\common_tab_icon_marketing_sel.png",
+        "source": "G:\\android\\mobilehealthcare\\app\\src\\main\\res\\mipmap-xhdpi\\common_tab_icon_marketing_sel.png"
+    },
+    {
+        "merged": "G:\\android\\mobilehealthcare\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi\\common_tab_icon_home_nor.png",
+        "source": "G:\\android\\mobilehealthcare\\app\\src\\main\\res\\mipmap-xhdpi\\common_tab_icon_home_nor.png"
+    },
+    {
+        "merged": "G:\\android\\mobilehealthcare\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi\\common_tab_icon_marketing_nor.png",
+        "source": "G:\\android\\mobilehealthcare\\app\\src\\main\\res\\mipmap-xhdpi\\common_tab_icon_marketing_nor.png"
+    },
+    {
+        "merged": "G:\\android\\mobilehealthcare\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi\\common_tab_icon_install_nor.png",
+        "source": "G:\\android\\mobilehealthcare\\app\\src\\main\\res\\mipmap-xhdpi\\common_tab_icon_install_nor.png"
+    },
+    {
+        "merged": "G:\\android\\mobilehealthcare\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi\\common_tab_icon_install_sel.png",
+        "source": "G:\\android\\mobilehealthcare\\app\\src\\main\\res\\mipmap-xhdpi\\common_tab_icon_install_sel.png"
+    },
+    {
+        "merged": "G:\\android\\mobilehealthcare\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi\\common_tab_icon_service_sel.png",
+        "source": "G:\\android\\mobilehealthcare\\app\\src\\main\\res\\mipmap-xhdpi\\common_tab_icon_service_sel.png"
+    },
+    {
+        "merged": "G:\\android\\mobilehealthcare\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi\\common_tab_icon_service_nor.png",
+        "source": "G:\\android\\mobilehealthcare\\app\\src\\main\\res\\mipmap-xhdpi\\common_tab_icon_service_nor.png"
+    }
+]

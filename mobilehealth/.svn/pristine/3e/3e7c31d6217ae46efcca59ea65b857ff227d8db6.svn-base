@@ -1,0 +1,26 @@
+[
+    {
+        "merged": "D:\\SudioApplication\\mobilehealth\\patient\\build\\intermediates\\res\\merged\\debug\\raw\\busy.amr",
+        "source": "D:\\SudioApplication\\mobilehealth\\patient\\build\\intermediates\\exploded-aar\\juscall\\res\\raw\\busy.amr"
+    },
+    {
+        "merged": "D:\\SudioApplication\\mobilehealth\\patient\\build\\intermediates\\res\\merged\\debug\\raw\\not_answered.amr",
+        "source": "D:\\SudioApplication\\mobilehealth\\patient\\build\\intermediates\\exploded-aar\\juscall\\res\\raw\\not_answered.amr"
+    },
+    {
+        "merged": "D:\\SudioApplication\\mobilehealth\\patient\\build\\intermediates\\res\\merged\\debug\\raw\\can_not_be_connected.amr",
+        "source": "D:\\SudioApplication\\mobilehealth\\patient\\build\\intermediates\\exploded-aar\\juscall\\res\\raw\\can_not_be_connected.amr"
+    },
+    {
+        "merged": "D:\\SudioApplication\\mobilehealth\\patient\\build\\intermediates\\res\\merged\\debug\\raw\\spring_ding_dong.mp3",
+        "source": "D:\\SudioApplication\\mobilehealth\\patient\\build\\intermediates\\exploded-aar\\juscall\\res\\raw\\spring_ding_dong.mp3"
+    },
+    {
+        "merged": "D:\\SudioApplication\\mobilehealth\\patient\\build\\intermediates\\res\\merged\\debug\\raw\\see_you_again.amr",
+        "source": "D:\\SudioApplication\\mobilehealth\\patient\\build\\intermediates\\exploded-aar\\juscall\\res\\raw\\see_you_again.amr"
+    },
+    {
+        "merged": "D:\\SudioApplication\\mobilehealth\\patient\\build\\intermediates\\res\\merged\\debug\\raw\\offline.amr",
+        "source": "D:\\SudioApplication\\mobilehealth\\patient\\build\\intermediates\\exploded-aar\\juscall\\res\\raw\\offline.amr"
+    }
+]

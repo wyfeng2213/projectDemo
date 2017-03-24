@@ -1,0 +1,144 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:soundEffectsEnabled="false">
+
+    <android.support.v4.view.ViewPager
+        android:id="@+id/doodle_viewpager"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent" />
+
+    <RelativeLayout
+        android:id="@+id/doodle_tool"
+        android:layout_width="match_parent"
+        android:layout_height="45dp"
+        android:layout_alignParentBottom="true"
+        android:background="@drawable/doodle_menu_bg">
+        <Button
+            android:id="@+id/doodle_btn_prev"
+            android:layout_width="40dp"
+            android:layout_height="40dp"
+            android:layout_alignParentLeft="true"
+            android:layout_alignParentBottom="true"
+            android:onClick="onPrev"
+            android:background="@drawable/doodle_prev"/>
+
+        <LinearLayout
+            android:id="@+id/doodle_brush_tool"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignParentBottom="true"
+            android:layout_toRightOf="@+id/doodle_btn_prev">
+            <Button
+                android:id="@+id/doodle_btn_brush_black"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_alignParentBottom="true"
+                android:onClick="onBrushBlack"
+                android:background="@drawable/doodle_black_brush_state" />
+            <Button
+                android:id="@+id/doodle_btn_brush_blue"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_alignParentBottom="true"
+                android:layout_marginLeft="5dp"
+                android:onClick="onBrushBlue"
+                android:background="@drawable/doodle_blue_brush_state"
+                />
+            <Button
+                android:id="@+id/doodle_btn_brush_red"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_alignParentBottom="true"
+                android:layout_marginLeft="5dp"
+                android:onClick="onBrushRed"
+                android:background="@drawable/doodle_red_brush_state"
+                />
+            <Button
+                android:id="@+id/doodle_btn_earse"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_alignParentBottom="true"
+                android:layout_marginLeft="5dp"
+                android:onClick="onEarse"
+                android:background="@drawable/doodle_erase_state" />
+        </LinearLayout>
+
+        <Button
+            android:id="@+id/doodle_btn_next"
+            android:layout_width="40dp"
+            android:layout_height="40dp"
+            android:layout_alignParentRight="true"
+            android:layout_alignParentBottom="true"
+            android:onClick="onNext"
+            android:background="@drawable/doodle_next"/>
+
+        <LinearLayout
+            android:id="@+id/doodle_extra_tool"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignParentBottom="true"
+            android:layout_toLeftOf="@+id/doodle_btn_next">
+            <Button
+                android:id="@+id/doodle_btn_clean"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_alignParentBottom="true"
+                android:layout_marginBottom="5dp"
+                android:onClick="onClean"
+                android:background="@drawable/doodle_clear"/>
+            <Button
+                android:id="@+id/doodle_btn_photo"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_alignParentBottom="true"
+                android:layout_marginBottom="5dp"
+                android:layout_marginLeft="2dp"
+                android:onClick="onPhoto"
+                android:background="@drawable/doodle_select_bg"/>
+        </LinearLayout>
+
+        <RelativeLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_toRightOf="@+id/doodle_brush_tool"
+            android:layout_toLeftOf="@+id/doodle_extra_tool"
+            android:layout_alignParentBottom="true">
+
+            <LinearLayout
+                android:id="@+id/doodle_line_tool"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_centerHorizontal="true"
+                android:layout_alignParentBottom="true">
+                <Button
+                    android:id="@+id/doodle_line_small"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_alignParentBottom="true"
+                    android:layout_marginBottom="5dp"
+                    android:onClick="onLineSmall"
+                    android:background="@drawable/doodle_line_small_state" />
+                <Button
+                    android:id="@+id/doodle_line_mid"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_alignParentBottom="true"
+                    android:layout_marginBottom="5dp"
+                    android:onClick="onLineMid"
+                    android:background="@drawable/doodle_line_mid_state" />
+                <Button
+                    android:id="@+id/doodle_line_large"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_alignParentBottom="true"
+                    android:layout_marginBottom="5dp"
+                    android:layout_marginLeft="2dp"
+                    android:onClick="onLineLarge"
+                    android:background="@drawable/doodle_line_large_state" />
+            </LinearLayout>
+        </RelativeLayout>
+
+    </RelativeLayout>
+</RelativeLayout>

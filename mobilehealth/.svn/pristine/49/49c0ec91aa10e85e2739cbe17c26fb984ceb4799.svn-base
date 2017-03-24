@@ -1,0 +1,298 @@
+[
+    {
+        "merged": "D:\\SudioApplication\\mobilehealth\\patient\\build\\intermediates\\res\\merged\\debug\\drawable\\call_statistic_bg.xml",
+        "source": "D:\\SudioApplication\\mobilehealth\\patient\\build\\intermediates\\exploded-aar\\juscall\\res\\drawable\\call_statistic_bg.xml"
+    },
+    {
+        "merged": "D:\\SudioApplication\\mobilehealth\\patient\\build\\intermediates\\res\\merged\\debug\\drawable\\call_end_state.xml",
+        "source": "D:\\SudioApplication\\mobilehealth\\patient\\build\\intermediates\\exploded-aar\\juscall\\res\\drawable\\call_end_state.xml"
+    },
+    {
+        "merged": "D:\\SudioApplication\\mobilehealth\\patient\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_vector_test.xml",
+        "source": "D:\\SudioApplication\\mobilehealth\\patient\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.0\\res\\drawable\\abc_vector_test.xml"
+    },
+    {
+        "merged": "D:\\SudioApplication\\mobilehealth\\patient\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_holo_dark.xml",
+        "source": "D:\\SudioApplication\\mobilehealth\\patient\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.0\\res\\drawable\\abc_list_selector_holo_dark.xml"
+    },
+    {
+        "merged": "D:\\SudioApplication\\mobilehealth\\patient\\build\\intermediates\\res\\merged\\debug\\drawable\\call_camera_off_state.xml",
+        "source": "D:\\SudioApplication\\mobilehealth\\patient\\build\\intermediates\\exploded-aar\\juscall\\res\\drawable\\call_camera_off_state.xml"
+    },
+    {
+        "merged": "D:\\SudioApplication\\mobilehealth\\patient\\build\\intermediates\\res\\merged\\debug\\drawable\\tab_activity_selector.xml",
+        "source": "D:\\SudioApplication\\mobilehealth\\patient\\src\\main\\res\\drawable\\tab_activity_selector.xml"
+    },
+    {
+        "merged": "D:\\SudioApplication\\mobilehealth\\patient\\build\\intermediates\\res\\merged\\debug\\drawable\\doodle_line_mid_state.xml",
+        "source": "D:\\SudioApplication\\mobilehealth\\patient\\build\\intermediates\\exploded-aar\\jusdoodle\\res\\drawable\\doodle_line_mid_state.xml"
+    },
+    {
+        "merged": "D:\\SudioApplication\\mobilehealth\\patient\\build\\intermediates\\res\\merged\\debug\\drawable\\call_switch_state.xml",
+        "source": "D:\\SudioApplication\\mobilehealth\\patient\\build\\intermediates\\exploded-aar\\juscall\\res\\drawable\\call_switch_state.xml"
+    },
+    {
+        "merged": "D:\\SudioApplication\\mobilehealth\\patient\\build\\intermediates\\res\\merged\\debug\\drawable\\notification_tile_bg.xml",
+        "source": "D:\\SudioApplication\\mobilehealth\\patient\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.0\\res\\drawable\\notification_tile_bg.xml"
+    },
+    {
+        "merged": "D:\\SudioApplication\\mobilehealth\\patient\\build\\intermediates\\res\\merged\\debug\\drawable\\call_video_voice_only.xml",
+        "source": "D:\\SudioApplication\\mobilehealth\\patient\\build\\intermediates\\exploded-aar\\juscall\\res\\drawable\\call_video_voice_only.xml"
+    },
+    {
+        "merged": "D:\\SudioApplication\\mobilehealth\\patient\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_colored_material.xml",
+        "source": "D:\\SudioApplication\\mobilehealth\\patient\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.0\\res\\drawable\\abc_btn_colored_material.xml"
+    },
+    {
+        "merged": "D:\\SudioApplication\\mobilehealth\\patient\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_seekbar_thumb_material.xml",
+        "source": "D:\\SudioApplication\\mobilehealth\\patient\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.0\\res\\drawable\\abc_seekbar_thumb_material.xml"
+    },
+    {
+        "merged": "D:\\SudioApplication\\mobilehealth\\patient\\build\\intermediates\\res\\merged\\debug\\drawable\\shape_item_healthreport.xml",
+        "source": "D:\\SudioApplication\\mobilehealth\\patient\\src\\main\\res\\drawable\\shape_item_healthreport.xml"
+    },
+    {
+        "merged": "D:\\SudioApplication\\mobilehealth\\patient\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_cab_background_top_material.xml",
+        "source": "D:\\SudioApplication\\mobilehealth\\patient\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.0\\res\\drawable\\abc_cab_background_top_material.xml"
+    },
+    {
+        "merged": "D:\\SudioApplication\\mobilehealth\\patient\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ratingbar_small_material.xml",
+        "source": "D:\\SudioApplication\\mobilehealth\\patient\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.0\\res\\drawable\\abc_ratingbar_small_material.xml"
+    },
+    {
+        "merged": "D:\\SudioApplication\\mobilehealth\\patient\\build\\intermediates\\res\\merged\\debug\\drawable\\call_video_camera_front.xml",
+        "source": "D:\\SudioApplication\\mobilehealth\\patient\\build\\intermediates\\exploded-aar\\juscall\\res\\drawable\\call_video_camera_front.xml"
+    },
+    {
+        "merged": "D:\\SudioApplication\\mobilehealth\\patient\\build\\intermediates\\res\\merged\\debug\\drawable\\common_signin_btn_icon_light.xml",
+        "source": "D:\\SudioApplication\\mobilehealth\\patient\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\7.5.0\\res\\drawable\\common_signin_btn_icon_light.xml"
+    },
+    {
+        "merged": "D:\\SudioApplication\\mobilehealth\\patient\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_textfield_search_material.xml",
+        "source": "D:\\SudioApplication\\mobilehealth\\patient\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.0\\res\\drawable\\abc_textfield_search_material.xml"
+    },
+    {
+        "merged": "D:\\SudioApplication\\mobilehealth\\patient\\build\\intermediates\\res\\merged\\debug\\drawable\\doodle_erase_state.xml",
+        "source": "D:\\SudioApplication\\mobilehealth\\patient\\build\\intermediates\\exploded-aar\\jusdoodle\\res\\drawable\\doodle_erase_state.xml"
+    },
+    {
+        "merged": "D:\\SudioApplication\\mobilehealth\\patient\\build\\intermediates\\res\\merged\\debug\\drawable\\doodle_line_small_state.xml",
+        "source": "D:\\SudioApplication\\mobilehealth\\patient\\build\\intermediates\\exploded-aar\\jusdoodle\\res\\drawable\\doodle_line_small_state.xml"
+    },
+    {
+        "merged": "D:\\SudioApplication\\mobilehealth\\patient\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_background_transition_holo_dark.xml",
+        "source": "D:\\SudioApplication\\mobilehealth\\patient\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.0\\res\\drawable\\abc_list_selector_background_transition_holo_dark.xml"
+    },
+    {
+        "merged": "D:\\SudioApplication\\mobilehealth\\patient\\build\\intermediates\\res\\merged\\debug\\drawable\\call_audio_headset.xml",
+        "source": "D:\\SudioApplication\\mobilehealth\\patient\\build\\intermediates\\exploded-aar\\juscall\\res\\drawable\\call_audio_headset.xml"
+    },
+    {
+        "merged": "D:\\SudioApplication\\mobilehealth\\patient\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ratingbar_indicator_material.xml",
+        "source": "D:\\SudioApplication\\mobilehealth\\patient\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.0\\res\\drawable\\abc_ratingbar_indicator_material.xml"
+    },
+    {
+        "merged": "D:\\SudioApplication\\mobilehealth\\patient\\build\\intermediates\\res\\merged\\debug\\drawable\\doodle_line_large_state.xml",
+        "source": "D:\\SudioApplication\\mobilehealth\\patient\\build\\intermediates\\exploded-aar\\jusdoodle\\res\\drawable\\doodle_line_large_state.xml"
+    },
+    {
+        "merged": "D:\\SudioApplication\\mobilehealth\\patient\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_radio_material.xml",
+        "source": "D:\\SudioApplication\\mobilehealth\\patient\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.0\\res\\drawable\\abc_btn_radio_material.xml"
+    },
+    {
+        "merged": "D:\\SudioApplication\\mobilehealth\\patient\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_item_background_holo_dark.xml",
+        "source": "D:\\SudioApplication\\mobilehealth\\patient\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.0\\res\\drawable\\abc_item_background_holo_dark.xml"
+    },
+    {
+        "merged": "D:\\SudioApplication\\mobilehealth\\patient\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_item_background_holo_light.xml",
+        "source": "D:\\SudioApplication\\mobilehealth\\patient\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.0\\res\\drawable\\abc_item_background_holo_light.xml"
+    },
+    {
+        "merged": "D:\\SudioApplication\\mobilehealth\\patient\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_voice_search_api_material.xml",
+        "source": "D:\\SudioApplication\\mobilehealth\\patient\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.0\\res\\drawable\\abc_ic_voice_search_api_material.xml"
+    },
+    {
+        "merged": "D:\\SudioApplication\\mobilehealth\\patient\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ratingbar_material.xml",
+        "source": "D:\\SudioApplication\\mobilehealth\\patient\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.0\\res\\drawable\\abc_ratingbar_material.xml"
+    },
+    {
+        "merged": "D:\\SudioApplication\\mobilehealth\\patient\\build\\intermediates\\res\\merged\\debug\\drawable\\call_audio_speaker.xml",
+        "source": "D:\\SudioApplication\\mobilehealth\\patient\\build\\intermediates\\exploded-aar\\juscall\\res\\drawable\\call_audio_speaker.xml"
+    },
+    {
+        "merged": "D:\\SudioApplication\\mobilehealth\\patient\\build\\intermediates\\res\\merged\\debug\\drawable\\call_mute_state.xml",
+        "source": "D:\\SudioApplication\\mobilehealth\\patient\\build\\intermediates\\exploded-aar\\juscall\\res\\drawable\\call_mute_state.xml"
+    },
+    {
+        "merged": "D:\\SudioApplication\\mobilehealth\\patient\\build\\intermediates\\res\\merged\\debug\\drawable\\common_signin_btn_icon_dark.xml",
+        "source": "D:\\SudioApplication\\mobilehealth\\patient\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\7.5.0\\res\\drawable\\common_signin_btn_icon_dark.xml"
+    },
+    {
+        "merged": "D:\\SudioApplication\\mobilehealth\\patient\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_clear_material.xml",
+        "source": "D:\\SudioApplication\\mobilehealth\\patient\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.0\\res\\drawable\\abc_ic_clear_material.xml"
+    },
+    {
+        "merged": "D:\\SudioApplication\\mobilehealth\\patient\\build\\intermediates\\res\\merged\\debug\\drawable\\notification_bg.xml",
+        "source": "D:\\SudioApplication\\mobilehealth\\patient\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.0\\res\\drawable\\notification_bg.xml"
+    },
+    {
+        "merged": "D:\\SudioApplication\\mobilehealth\\patient\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_search_api_material.xml",
+        "source": "D:\\SudioApplication\\mobilehealth\\patient\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.0\\res\\drawable\\abc_ic_search_api_material.xml"
+    },
+    {
+        "merged": "D:\\SudioApplication\\mobilehealth\\patient\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_menu_overflow_material.xml",
+        "source": "D:\\SudioApplication\\mobilehealth\\patient\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.0\\res\\drawable\\abc_ic_menu_overflow_material.xml"
+    },
+    {
+        "merged": "D:\\SudioApplication\\mobilehealth\\patient\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_borderless_material.xml",
+        "source": "D:\\SudioApplication\\mobilehealth\\patient\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.0\\res\\drawable\\abc_btn_borderless_material.xml"
+    },
+    {
+        "merged": "D:\\SudioApplication\\mobilehealth\\patient\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_text_cursor_material.xml",
+        "source": "D:\\SudioApplication\\mobilehealth\\patient\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.0\\res\\drawable\\abc_text_cursor_material.xml"
+    },
+    {
+        "merged": "D:\\SudioApplication\\mobilehealth\\patient\\build\\intermediates\\res\\merged\\debug\\drawable\\notification_icon_background.xml",
+        "source": "D:\\SudioApplication\\mobilehealth\\patient\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.0\\res\\drawable\\notification_icon_background.xml"
+    },
+    {
+        "merged": "D:\\SudioApplication\\mobilehealth\\patient\\build\\intermediates\\res\\merged\\debug\\drawable\\doodle_red_brush_state.xml",
+        "source": "D:\\SudioApplication\\mobilehealth\\patient\\build\\intermediates\\exploded-aar\\jusdoodle\\res\\drawable\\doodle_red_brush_state.xml"
+    },
+    {
+        "merged": "D:\\SudioApplication\\mobilehealth\\patient\\build\\intermediates\\res\\merged\\debug\\drawable\\call_video_camera_rear.xml",
+        "source": "D:\\SudioApplication\\mobilehealth\\patient\\build\\intermediates\\exploded-aar\\juscall\\res\\drawable\\call_video_camera_rear.xml"
+    },
+    {
+        "merged": "D:\\SudioApplication\\mobilehealth\\patient\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_default_mtrl_shape.xml",
+        "source": "D:\\SudioApplication\\mobilehealth\\patient\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.0\\res\\drawable\\abc_btn_default_mtrl_shape.xml"
+    },
+    {
+        "merged": "D:\\SudioApplication\\mobilehealth\\patient\\build\\intermediates\\res\\merged\\debug\\drawable\\call_audio_bluetooth.xml",
+        "source": "D:\\SudioApplication\\mobilehealth\\patient\\build\\intermediates\\exploded-aar\\juscall\\res\\drawable\\call_audio_bluetooth.xml"
+    },
+    {
+        "merged": "D:\\SudioApplication\\mobilehealth\\patient\\build\\intermediates\\res\\merged\\debug\\drawable\\notification_bg_low.xml",
+        "source": "D:\\SudioApplication\\mobilehealth\\patient\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.0\\res\\drawable\\notification_bg_low.xml"
+    },
+    {
+        "merged": "D:\\SudioApplication\\mobilehealth\\patient\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_seekbar_track_material.xml",
+        "source": "D:\\SudioApplication\\mobilehealth\\patient\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.0\\res\\drawable\\abc_seekbar_track_material.xml"
+    },
+    {
+        "merged": "D:\\SudioApplication\\mobilehealth\\patient\\build\\intermediates\\res\\merged\\debug\\drawable\\call_audio_receiver.xml",
+        "source": "D:\\SudioApplication\\mobilehealth\\patient\\build\\intermediates\\exploded-aar\\juscall\\res\\drawable\\call_audio_receiver.xml"
+    },
+    {
+        "merged": "D:\\SudioApplication\\mobilehealth\\patient\\build\\intermediates\\res\\merged\\debug\\drawable\\call_video_camera_off.xml",
+        "source": "D:\\SudioApplication\\mobilehealth\\patient\\build\\intermediates\\exploded-aar\\juscall\\res\\drawable\\call_video_camera_off.xml"
+    },
+    {
+        "merged": "D:\\SudioApplication\\mobilehealth\\patient\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_spinner_textfield_background_material.xml",
+        "source": "D:\\SudioApplication\\mobilehealth\\patient\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.0\\res\\drawable\\abc_spinner_textfield_background_material.xml"
+    },
+    {
+        "merged": "D:\\SudioApplication\\mobilehealth\\patient\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_ab_back_material.xml",
+        "source": "D:\\SudioApplication\\mobilehealth\\patient\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.0\\res\\drawable\\abc_ic_ab_back_material.xml"
+    },
+    {
+        "merged": "D:\\SudioApplication\\mobilehealth\\patient\\build\\intermediates\\res\\merged\\debug\\drawable\\call_speaker_state.xml",
+        "source": "D:\\SudioApplication\\mobilehealth\\patient\\build\\intermediates\\exploded-aar\\juscall\\res\\drawable\\call_speaker_state.xml"
+    },
+    {
+        "merged": "D:\\SudioApplication\\mobilehealth\\patient\\build\\intermediates\\res\\merged\\debug\\drawable\\doodle_black_brush_state.xml",
+        "source": "D:\\SudioApplication\\mobilehealth\\patient\\build\\intermediates\\exploded-aar\\jusdoodle\\res\\drawable\\doodle_black_brush_state.xml"
+    },
+    {
+        "merged": "D:\\SudioApplication\\mobilehealth\\patient\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_go_search_api_material.xml",
+        "source": "D:\\SudioApplication\\mobilehealth\\patient\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.0\\res\\drawable\\abc_ic_go_search_api_material.xml"
+    },
+    {
+        "merged": "D:\\SudioApplication\\mobilehealth\\patient\\build\\intermediates\\res\\merged\\debug\\drawable\\common_signin_btn_text_light.xml",
+        "source": "D:\\SudioApplication\\mobilehealth\\patient\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\7.5.0\\res\\drawable\\common_signin_btn_text_light.xml"
+    },
+    {
+        "merged": "D:\\SudioApplication\\mobilehealth\\patient\\build\\intermediates\\res\\merged\\debug\\drawable\\call_incoming_slide_bg.xml",
+        "source": "D:\\SudioApplication\\mobilehealth\\patient\\build\\intermediates\\exploded-aar\\juscall\\res\\drawable\\call_incoming_slide_bg.xml"
+    },
+    {
+        "merged": "D:\\SudioApplication\\mobilehealth\\patient\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_edit_text_material.xml",
+        "source": "D:\\SudioApplication\\mobilehealth\\patient\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.0\\res\\drawable\\abc_edit_text_material.xml"
+    },
+    {
+        "merged": "D:\\SudioApplication\\mobilehealth\\patient\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_arrow_drop_right_black_24dp.xml",
+        "source": "D:\\SudioApplication\\mobilehealth\\patient\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.0\\res\\drawable\\abc_ic_arrow_drop_right_black_24dp.xml"
+    },
+    {
+        "merged": "D:\\SudioApplication\\mobilehealth\\patient\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_dialog_material_background.xml",
+        "source": "D:\\SudioApplication\\mobilehealth\\patient\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.0\\res\\drawable\\abc_dialog_material_background.xml"
+    },
+    {
+        "merged": "D:\\SudioApplication\\mobilehealth\\patient\\build\\intermediates\\res\\merged\\debug\\drawable\\call_camera_on_state.xml",
+        "source": "D:\\SudioApplication\\mobilehealth\\patient\\build\\intermediates\\exploded-aar\\juscall\\res\\drawable\\call_camera_on_state.xml"
+    },
+    {
+        "merged": "D:\\SudioApplication\\mobilehealth\\patient\\build\\intermediates\\res\\merged\\debug\\drawable\\shape_blue_line.xml",
+        "source": "D:\\SudioApplication\\mobilehealth\\patient\\src\\main\\res\\drawable\\shape_blue_line.xml"
+    },
+    {
+        "merged": "D:\\SudioApplication\\mobilehealth\\patient\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_tab_indicator_material.xml",
+        "source": "D:\\SudioApplication\\mobilehealth\\patient\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.0\\res\\drawable\\abc_tab_indicator_material.xml"
+    },
+    {
+        "merged": "D:\\SudioApplication\\mobilehealth\\patient\\build\\intermediates\\res\\merged\\debug\\drawable\\call_float_bg.xml",
+        "source": "D:\\SudioApplication\\mobilehealth\\patient\\build\\intermediates\\exploded-aar\\juscall\\res\\drawable\\call_float_bg.xml"
+    },
+    {
+        "merged": "D:\\SudioApplication\\mobilehealth\\patient\\build\\intermediates\\res\\merged\\debug\\drawable\\call_redial_video_state.xml",
+        "source": "D:\\SudioApplication\\mobilehealth\\patient\\build\\intermediates\\exploded-aar\\juscall\\res\\drawable\\call_redial_video_state.xml"
+    },
+    {
+        "merged": "D:\\SudioApplication\\mobilehealth\\patient\\build\\intermediates\\res\\merged\\debug\\drawable\\call_incoming_anim_bg.xml",
+        "source": "D:\\SudioApplication\\mobilehealth\\patient\\build\\intermediates\\exploded-aar\\juscall\\res\\drawable\\call_incoming_anim_bg.xml"
+    },
+    {
+        "merged": "D:\\SudioApplication\\mobilehealth\\patient\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_check_material.xml",
+        "source": "D:\\SudioApplication\\mobilehealth\\patient\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.0\\res\\drawable\\abc_btn_check_material.xml"
+    },
+    {
+        "merged": "D:\\SudioApplication\\mobilehealth\\patient\\build\\intermediates\\res\\merged\\debug\\drawable\\tab_bg_selector.xml",
+        "source": "D:\\SudioApplication\\mobilehealth\\patient\\src\\main\\res\\drawable\\tab_bg_selector.xml"
+    },
+    {
+        "merged": "D:\\SudioApplication\\mobilehealth\\patient\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_cab_background_internal_bg.xml",
+        "source": "D:\\SudioApplication\\mobilehealth\\patient\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.0\\res\\drawable\\abc_cab_background_internal_bg.xml"
+    },
+    {
+        "merged": "D:\\SudioApplication\\mobilehealth\\patient\\build\\intermediates\\res\\merged\\debug\\drawable\\common_signin_btn_text_dark.xml",
+        "source": "D:\\SudioApplication\\mobilehealth\\patient\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\7.5.0\\res\\drawable\\common_signin_btn_text_dark.xml"
+    },
+    {
+        "merged": "D:\\SudioApplication\\mobilehealth\\patient\\build\\intermediates\\res\\merged\\debug\\drawable\\shape_gray_bg.xml",
+        "source": "D:\\SudioApplication\\mobilehealth\\patient\\src\\main\\res\\drawable\\shape_gray_bg.xml"
+    },
+    {
+        "merged": "D:\\SudioApplication\\mobilehealth\\patient\\build\\intermediates\\res\\merged\\debug\\drawable\\doodle_blue_brush_state.xml",
+        "source": "D:\\SudioApplication\\mobilehealth\\patient\\build\\intermediates\\exploded-aar\\jusdoodle\\res\\drawable\\doodle_blue_brush_state.xml"
+    },
+    {
+        "merged": "D:\\SudioApplication\\mobilehealth\\patient\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_switch_thumb_material.xml",
+        "source": "D:\\SudioApplication\\mobilehealth\\patient\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.0\\res\\drawable\\abc_switch_thumb_material.xml"
+    },
+    {
+        "merged": "D:\\SudioApplication\\mobilehealth\\patient\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_background_transition_holo_light.xml",
+        "source": "D:\\SudioApplication\\mobilehealth\\patient\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.0\\res\\drawable\\abc_list_selector_background_transition_holo_light.xml"
+    },
+    {
+        "merged": "D:\\SudioApplication\\mobilehealth\\patient\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_seekbar_tick_mark_material.xml",
+        "source": "D:\\SudioApplication\\mobilehealth\\patient\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.0\\res\\drawable\\abc_seekbar_tick_mark_material.xml"
+    },
+    {
+        "merged": "D:\\SudioApplication\\mobilehealth\\patient\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_holo_light.xml",
+        "source": "D:\\SudioApplication\\mobilehealth\\patient\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.0\\res\\drawable\\abc_list_selector_holo_light.xml"
+    },
+    {
+        "merged": "D:\\SudioApplication\\mobilehealth\\patient\\build\\intermediates\\res\\merged\\debug\\drawable\\call_redial_voice_state.xml",
+        "source": "D:\\SudioApplication\\mobilehealth\\patient\\build\\intermediates\\exploded-aar\\juscall\\res\\drawable\\call_redial_voice_state.xml"
+    }
+]

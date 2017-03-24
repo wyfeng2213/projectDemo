@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="MineItemView">
+        <attr name="title_background_color" format="reference|integer" />
+
+        <attr name="left_tv_visible" format="boolean" />
+        <attr name="right_tv_visible" format="boolean" />
+        <attr name="center_tv_visible" format="boolean" />
+
+        <attr name="left_text" format="string" />
+        <attr name="left_text_color" format="color" />
+        <attr name="center_text" format="string" />
+        <attr name="center_text_color" format="color" />
+        <attr name="right_text" format="string" />
+        <attr name="right_text_color" format="color" />
+
+
+        <attr name="left_text_drawable" format="reference|integer" />
+        <attr name="center_tv_drawable" format="reference|integer" />
+        <attr name="right_tv_drawable" format="reference|integer" />
+    </declare-styleable>
+
+</resources>
+
+
+

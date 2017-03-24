@@ -1,0 +1,35 @@
+<resources>
+    <string name="app_name">移动医疗</string>
+    <string name="JusTalkCloud_AppKey">e51a0da8289bf2c657665095</string>
+    <string name="MiPush_AppId">2882303761517416129</string>
+    <string name="MiPush_AppKey">5211741695129</string>
+
+    <string name="gcm_sender_id">527225413725</string>
+
+    <string name="log_in">Log In</string>
+    <string name="login">Login</string>
+    <string name="logout">Logout</string>
+    <string name="login_ok">Login OK</string>
+    <string name="login_failed">Login Failed</string>
+    <string name="logging_in">Logging in&#8230;</string>
+    <string name="logging_out">Logging out&#8230;</string>
+    <string name="logout_ok">Logout OK</string>
+    <string name="logouted">Your account login another device</string>
+
+    <string name="hint_username">Username</string>
+    <string name="hint_password">Password</string>
+    <string name="hint_server">Server Address</string>
+
+    <string name="detect">Detect Bandwidth</string>
+
+    <string name="choose_pic">Choose Picture Size</string>
+    <string name="min">Min</string>
+    <string name="small">Small</string>
+    <string name="large">Large</string>
+    <string name="max">Max</string>
+    <string name="ok">OK</string>
+
+    <string name="chat">Chat</string>
+
+    <string name="network_address">http:router.justalkcloud.com:8080</string>
+</resources>

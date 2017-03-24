@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "D:\\SudioApplication\\mobilehealth\\patient\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi\\tab_bg_normal.png",
+        "source": "D:\\SudioApplication\\mobilehealth\\patient\\src\\main\\res\\mipmap-xhdpi\\tab_bg_normal.png"
+    },
+    {
+        "merged": "D:\\SudioApplication\\mobilehealth\\patient\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi\\tab_bg_selected.png",
+        "source": "D:\\SudioApplication\\mobilehealth\\patient\\src\\main\\res\\mipmap-xhdpi\\tab_bg_selected.png"
+    },
+    {
+        "merged": "D:\\SudioApplication\\mobilehealth\\patient\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi\\ic_launcher.png",
+        "source": "D:\\SudioApplication\\mobilehealth\\patient\\src\\main\\res\\mipmap-xhdpi\\ic_launcher.png"
+    }
+]

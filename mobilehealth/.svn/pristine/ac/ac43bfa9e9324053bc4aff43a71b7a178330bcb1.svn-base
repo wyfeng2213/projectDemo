@@ -1,0 +1,162 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <include layout="@layout/headbar"></include>
+
+    <ImageView
+        android:id="@+id/img_head"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/layout_head"
+        android:layout_marginLeft="@dimen/service_item_margin"
+        android:layout_marginTop="@dimen/service_item_margin"
+        android:src="@mipmap/ic_launcher" />
+
+    <TextView
+        android:id="@+id/tv_name"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/layout_head"
+        android:layout_marginLeft="@dimen/service_item_margin"
+        android:layout_marginTop="@dimen/service_item_margin"
+        android:layout_toRightOf="@+id/img_head"
+        android:text="李福东" />
+
+    <TextView
+        android:id="@+id/tv_hospital"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignLeft="@+id/tv_name"
+        android:layout_below="@+id/tv_name"
+        android:layout_marginTop="@dimen/service_item_margin"
+        android:background="@drawable/shape_blue_line"
+        android:text="顶级医院"
+        android:textColor="@color/lightblue" />
+
+    <TextView
+        android:id="@+id/tv_department"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/tv_name"
+        android:layout_marginLeft="@dimen/service_item_margin"
+        android:layout_marginTop="@dimen/service_item_margin"
+        android:layout_toRightOf="@+id/tv_hospital"
+        android:background="@drawable/shape_blue_line"
+        android:text="科室"
+        android:textColor="@color/lightblue" />
+
+    <TextView
+        android:id="@+id/len_age"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/tv_name"
+        android:layout_marginLeft="@dimen/service_item_margin"
+        android:layout_marginTop="@dimen/service_item_margin"
+        android:layout_toRightOf="@+id/tv_department"
+        android:background="@drawable/shape_blue_line"
+        android:text="从业10年"
+        android:textColor="@color/lightblue" />
+
+    <LinearLayout
+        android:id="@+id/layout_pic"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/tv_hospital"
+        android:layout_marginLeft="@dimen/service_item_margin"
+        android:layout_marginTop="15dp"
+        android:background="@drawable/shape_gray_bg"
+        android:orientation="vertical"
+        android:padding="@dimen/sevice_detail_layout_padding">
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="图文咨询"
+            android:textColor="@color/black" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="10dp"
+            android:text="图片,文字咨询" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="10dp"
+            android:text="$ 30/次"
+            android:textColor="@color/lightblue" />
+
+
+    </LinearLayout>
+
+    <LinearLayout
+        android:id="@+id/layout_tell"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/tv_hospital"
+        android:layout_marginLeft="@dimen/service_item_margin"
+        android:layout_marginTop="15dp"
+        android:layout_toRightOf="@+id/layout_pic"
+        android:background="@drawable/shape_gray_bg"
+        android:orientation="vertical"
+        android:padding="@dimen/sevice_detail_layout_padding">
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="电话咨询"
+            android:textColor="@color/black" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="10dp"
+            android:text="限时通话查询" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="10dp"
+            android:text="$ 1/分钟"
+            android:textColor="@color/lightblue" />
+
+
+    </LinearLayout>
+
+    <LinearLayout
+        android:id="@+id/layout_video"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/tv_hospital"
+        android:layout_marginLeft="@dimen/service_item_margin"
+        android:layout_marginTop="15dp"
+        android:layout_toRightOf="@+id/layout_tell"
+        android:background="@drawable/shape_gray_bg"
+        android:orientation="vertical"
+        android:padding="@dimen/sevice_detail_layout_padding">
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="视频咨询"
+            android:textColor="@color/black" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="10dp"
+            android:text="在线面对面咨询" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="10dp"
+            android:text="$ 10/分钟"
+            android:textColor="@color/lightblue" />
+    </LinearLayout>
+
+
+</RelativeLayout>

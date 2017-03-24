@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:layout_marginTop="10dp"
+    android:background="@drawable/shape_item_healthreport"
+    android:orientation="vertical"
+    android:padding="10dp">
+
+    <TextView
+        android:id="@+id/tv_clinictime"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/clinictime"
+        android:textColor="@color/gray_drak" />
+
+    <TextView
+        android:id="@+id/date"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentRight="true"
+        android:text="3月14日" />
+
+    <TextView
+        android:id="@+id/tv_medical_reasons"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/tv_clinictime"
+        android:layout_marginTop="10dp"
+        android:text="@string/str_medical_reasons"
+        android:textColor="@color/gray_drak" />
+
+    <TextView
+        android:id="@+id/tv_desc"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/tv_medical_reasons"
+        android:layout_marginTop="5dp"
+        android:text="感冒发烧不舒服,感冒发烧不舒服,感冒发烧不舒服,"
+        android:textColor="@color/black"
+        android:textSize="15sp" />
+
+    <TextView
+        android:id="@+id/tv_inspection_report"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/tv_desc"
+        android:layout_marginTop="10dp"
+        android:text="@string/str_inspection_report"
+        android:textColor="@color/gray_drak" />
+
+    <ImageView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/tv_inspection_report"
+        android:src="@mipmap/ic_launcher" />
+
+
+</RelativeLayout>

@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "D:\\SudioApplication\\mobilehealth\\patient\\build\\intermediates\\res\\merged\\debug\\raw-zh-rCN\\can_not_be_connected.amr",
+        "source": "D:\\SudioApplication\\mobilehealth\\patient\\build\\intermediates\\exploded-aar\\juscall\\res\\raw-zh-rCN\\can_not_be_connected.amr"
+    },
+    {
+        "merged": "D:\\SudioApplication\\mobilehealth\\patient\\build\\intermediates\\res\\merged\\debug\\raw-zh-rCN\\not_answered.amr",
+        "source": "D:\\SudioApplication\\mobilehealth\\patient\\build\\intermediates\\exploded-aar\\juscall\\res\\raw-zh-rCN\\not_answered.amr"
+    },
+    {
+        "merged": "D:\\SudioApplication\\mobilehealth\\patient\\build\\intermediates\\res\\merged\\debug\\raw-zh-rCN\\busy.amr",
+        "source": "D:\\SudioApplication\\mobilehealth\\patient\\build\\intermediates\\exploded-aar\\juscall\\res\\raw-zh-rCN\\busy.amr"
+    },
+    {
+        "merged": "D:\\SudioApplication\\mobilehealth\\patient\\build\\intermediates\\res\\merged\\debug\\raw-zh-rCN\\offline.amr",
+        "source": "D:\\SudioApplication\\mobilehealth\\patient\\build\\intermediates\\exploded-aar\\juscall\\res\\raw-zh-rCN\\offline.amr"
+    }
+]

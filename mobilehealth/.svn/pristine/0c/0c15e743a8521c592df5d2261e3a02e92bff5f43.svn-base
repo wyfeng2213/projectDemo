@@ -1,0 +1,14 @@
+-keep class com.cmcc.patient.SystemApplication {
+    <init>();
+    void attachBaseContext(android.content.Context);
+}
+-keep class com.cmcc.patient.IM.LoginActivity { <init>(); }
+-keep class com.cmcc.patient.UI.activity.MainActivity { <init>(); }
+-keep class com.cmcc.patient.UI.activity.ServiceDetailActivity { <init>(); }
+-keep class com.cmcc.patient.UI.activity.HealthRecordActivity { <init>(); }
+-keep class com.cmcc.patient.UI.activity.AddHealthRecordActivity { <init>(); }
+-keep class com.cmcc.patient.IM.ChatActivity { <init>(); }
+-keep class com.cmcc.patient.IM.OriginalActivity { <init>(); }
+-keep class com.cmcc.patient.UI.activity.MainActivity2 { <init>(); }
+-keep class com.justalk.cloud.juscall.CallActivity { <init>(); }
+-keep class com.cmcc.patient.IM.DialActivity { <init>(); }

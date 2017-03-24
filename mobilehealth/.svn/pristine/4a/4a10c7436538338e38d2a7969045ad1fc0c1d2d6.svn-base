@@ -1,0 +1,128 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:paddingBottom="@dimen/activity_vertical_margin"
+    android:paddingLeft="@dimen/activity_horizontal_margin"
+    android:paddingRight="@dimen/activity_horizontal_margin"
+    android:paddingTop="@dimen/activity_vertical_margin"
+     >
+
+    <EditText
+        android:id="@+id/et_username"
+        android:layout_width="match_parent"
+        android:layout_height="40dp"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentTop="true"
+        android:layout_marginLeft="20dp"
+        android:layout_marginRight="20dp"
+        android:layout_marginTop="40dp"
+        android:paddingLeft="10dp"
+        android:ems="10"
+        android:hint="@string/hint_username"
+        android:textColorHint="#858585"
+        android:background="@drawable/edit_bg"
+        >
+    </EditText>
+    
+    <EditText
+        android:id="@+id/et_password"
+        android:layout_width="match_parent"
+        android:layout_height="40dp"
+        android:layout_alignLeft="@id/et_username"
+        android:layout_alignRight="@id/et_username"
+        android:layout_marginTop="20dp"
+        android:paddingLeft="10dp"
+        android:layout_below="@id/et_username"
+        android:ems="10"
+        android:hint="Password"
+        android:textColorHint="#858585"
+        android:inputType="textUri" 
+        android:imeOptions="actionDone"
+        android:background="@drawable/edit_bg"
+        >
+    </EditText>
+
+    <EditText
+        android:id="@+id/et_server"
+        android:layout_width="match_parent"
+        android:layout_height="40dp"
+        android:layout_alignLeft="@id/et_username"
+        android:layout_alignRight="@id/et_username"
+        android:layout_below="@id/et_password"
+        android:layout_marginTop="20dp"
+        android:paddingLeft="10dp"
+        android:ems="10"
+        android:text="@string/network_address"
+        android:hint="@string/hint_server"
+        android:textColorHint="#858585"
+        android:inputType="textUri"
+        android:background="@drawable/edit_bg"
+        >
+    </EditText>
+
+    <Button
+        android:visibility="gone"
+        android:id="@+id/btn_chooseServer"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_toRightOf="@id/et_server"
+        android:layout_alignBottom="@id/et_server"
+        android:onClick="onChooseServer" />
+    
+    <Button
+        android:id="@+id/btn_login"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_alignLeft="@id/et_username"
+        android:layout_alignRight="@id/et_username"
+        android:layout_below="@id/et_server"
+        android:layout_marginTop="10dp"
+        android:onClick="onLogin"
+        android:text="@string/login" />
+
+    <Button
+        android:id="@+id/btn_chat"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_alignLeft="@id/et_username"
+        android:layout_alignRight="@id/et_username"
+        android:layout_below="@id/btn_login"
+        android:layout_marginTop="10dp"
+        android:onClick="onChat"
+        android:text="@string/chat"
+        android:visibility="gone" />
+
+    <EditText
+        android:id="@+id/et_bandwidth"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_alignLeft="@id/et_username"
+        android:layout_alignRight="@id/et_username"
+        android:layout_below="@id/btn_chat"
+        android:layout_marginTop="20dp"
+        android:ems="10"
+        android:inputType="textUri"
+        android:visibility="gone"/>
+
+    <Button
+        android:id="@+id/btn_detect"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_alignLeft="@id/et_username"
+        android:layout_alignRight="@id/et_username"
+        android:layout_below="@id/et_bandwidth"
+        android:layout_marginTop="10dp"
+        android:onClick="onDetect"
+        android:text="@string/detect"
+        android:visibility="gone" />
+
+    <Button
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentBottom="true"
+        android:layout_centerHorizontal="true"
+        android:text="ShowSDKVersion"
+        android:textSize="12sp"
+        android:onClick="showSDKVersion"/>
+</RelativeLayout>

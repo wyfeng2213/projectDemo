@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merger version="3"><dataSet config="main"><source path="D:\SudioApplication\mobilehealth\browse\src\main\assets"><file name="WebViewJavascriptBridge.js" path="D:\SudioApplication\mobilehealth\browse\src\main\assets\WebViewJavascriptBridge.js"/></source><source path="D:\SudioApplication\mobilehealth\browse\build\generated\assets\shaders\release"/></dataSet><dataSet config="release"><source path="D:\SudioApplication\mobilehealth\browse\src\release\assets"/></dataSet></merger>

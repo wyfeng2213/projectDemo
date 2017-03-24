@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:paddingTop="20dp">
+
+    <ImageView
+        android:id="@+id/img_head"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="@dimen/service_item_margin"
+        android:layout_marginTop="10dp"
+        android:src="@mipmap/ic_launcher" />
+
+    <TextView
+        android:id="@+id/tv_name"
+        style="@style/style_service_item"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="@dimen/service_item_margin"
+        android:layout_toRightOf="@+id/img_head"
+        android:text="李福东"
+        android:textSize="@dimen/service_item_txtsize1" />
+
+    <TextView
+        android:id="@+id/tv_department"
+        style="@style/style_service_item"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="@dimen/service_item_margin"
+        android:layout_toRightOf="@+id/tv_name"
+        android:text="神经内科"
+        android:textSize="@dimen/service_item_txtsize1" />
+
+    <TextView
+        android:id="@+id/tv_result"
+        style="@style/style_service_item"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentRight="true"
+        android:layout_marginRight="@dimen/service_item_margin"
+        android:text="等待回复"
+        android:textColor="@color/lightblue"
+        android:textSize="@dimen/sevice_item_txtsize2" />
+
+    <TextView
+        android:id="@+id/date"
+        style="@style/style_service_item"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignLeft="@+id/tv_name"
+        android:layout_below="@+id/tv_name"
+        android:layout_marginTop="@dimen/service_item_margin2"
+        android:text="3月9日" />
+
+    <TextView
+        android:id="@+id/tv_consulting_type"
+        style="@style/style_service_item"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignBottom="@+id/date"
+        android:layout_marginLeft="@dimen/service_item_margin"
+        android:layout_marginTop="@dimen/service_item_margin2"
+        android:layout_toRightOf="@+id/date"
+        android:text="图文咨询" />
+
+    <TextView
+        android:id="@+id/tv_desc"
+        style="@style/style_service_item"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignLeft="@+id/tv_name"
+        android:layout_below="@+id/date"
+        android:layout_marginTop="@dimen/service_item_margin2"
+        android:paddingBottom="10dp"
+        android:text="最近睡眠质量不好,且难以入睡"
+        android:textSize="16sp" />
+</RelativeLayout>

@@ -1,0 +1,70 @@
+apply plugin: 'com.android.application'
+
+android {
+    compileSdkVersion BUILD_SDK_VERSION as int
+    buildToolsVersion BUILD_TOOLS_VERSION
+
+    defaultConfig {
+        applicationId "com.cmcc.patient"
+        minSdkVersion BUILD_MIN_SDK_VERSION as int
+        targetSdkVersion BUILD_TARGET_SDK_VERSION as int
+        versionCode 1
+        versionName "1.0"
+        multiDexEnabled true
+//        testInstrumentationRunner "android.support.test.runner.AndroidJUnitRunner"
+
+    }
+
+    dexOptions {
+        incremental true
+        javaMaxHeapSize "4g"
+    }
+
+    sourceSets {
+        main {
+            jniLibs.srcDirs = ['libs']
+        }
+    }
+
+    repositories {
+        flatDir {
+            dirs 'libs'
+        }
+    }
+
+    buildTypes {
+        release {
+            minifyEnabled false
+            proguardFiles getDefaultProguardFile('proguard-android.txt'), 'proguard-rules.pro'
+        }
+    }
+}
+
+dependencies {
+    compile fileTree(include: ['*.jar'], dir: 'libs')
+    //    androidTestCompile('com.android.support.test.espresso:espresso-core:2.2.2', {
+    //        exclude group: 'com.android.support', module: 'support-annotations'
+    //    })
+    compile 'com.google.android.gms:play-services-gcm:7.5.0'
+    testCompile 'junit:junit:4.12'
+    compile 'com.jakewharton:butterknife:8.4.0'
+    annotationProcessor 'com.jakewharton:butterknife-compiler:8.4.0'
+    compile 'com.trello:rxlifecycle:1.0'
+    compile 'com.trello:rxlifecycle-android:1.0'
+    compile 'com.trello:rxlifecycle-components:1.0'
+    compile 'com.orhanobut:logger:1.15'
+    // Common Adapter的依赖
+    compile 'org.simple:adapter:1.0.1'
+    //拍照库的依赖
+    compile 'com.jph.takephoto:takephoto_library:4.0.3'
+    // 日历
+    compile 'cn.carbs.android:IndicatorView:1.0.2'
+    compile(name: 'juslogin', ext: 'aar')
+    compile(name: 'juscall', ext: 'aar')
+    compile(name: 'jusdoodle', ext: 'aar')
+    compile project(':requestlibrary')
+    compile project(':healthlibrary')
+    compile project(':juslibs')
+    compile project(':refreshlibrary')
+    compile project(':calendarlibrary')
+}

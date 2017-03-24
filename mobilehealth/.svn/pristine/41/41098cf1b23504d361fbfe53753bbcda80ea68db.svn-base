@@ -1,0 +1,1 @@
+include ':app', ':requestlibrary', ':healthlibrary', ':patient', ':browse', ':juslibs', ':refreshlibrary', ':calendarlibrary'

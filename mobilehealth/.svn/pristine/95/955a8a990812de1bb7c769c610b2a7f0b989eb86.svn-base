@@ -1,0 +1,110 @@
+// Generated code from Butter Knife. Do not modify!
+package com.cmcc.patient.UI.activity;
+
+import android.support.annotation.CallSuper;
+import android.support.annotation.UiThread;
+import android.view.View;
+import android.widget.ImageView;
+import android.widget.LinearLayout;
+import android.widget.RelativeLayout;
+import android.widget.TextView;
+import butterknife.Unbinder;
+import butterknife.internal.DebouncingOnClickListener;
+import butterknife.internal.Utils;
+import com.cmcc.patient.R;
+import java.lang.IllegalStateException;
+import java.lang.Override;
+
+public class ServiceDetailActivity_ViewBinding<T extends ServiceDetailActivity> implements Unbinder {
+  protected T target;
+
+  private View view2131558613;
+
+  private View view2131558543;
+
+  private View view2131558544;
+
+  private View view2131558545;
+
+  @UiThread
+  public ServiceDetailActivity_ViewBinding(final T target, View source) {
+    this.target = target;
+
+    View view;
+    view = Utils.findRequiredView(source, R.id.tv_left, "field 'tvLeft' and method 'onClick'");
+    target.tvLeft = Utils.castView(view, R.id.tv_left, "field 'tvLeft'", TextView.class);
+    view2131558613 = view;
+    view.setOnClickListener(new DebouncingOnClickListener() {
+      @Override
+      public void doClick(View p0) {
+        target.onClick(p0);
+      }
+    });
+    target.tvCenter = Utils.findRequiredViewAsType(source, R.id.tv_center, "field 'tvCenter'", TextView.class);
+    target.tvRight = Utils.findRequiredViewAsType(source, R.id.tv_right, "field 'tvRight'", TextView.class);
+    target.layoutHead = Utils.findRequiredViewAsType(source, R.id.layout_head, "field 'layoutHead'", RelativeLayout.class);
+    target.imgHead = Utils.findRequiredViewAsType(source, R.id.img_head, "field 'imgHead'", ImageView.class);
+    target.tvName = Utils.findRequiredViewAsType(source, R.id.tv_name, "field 'tvName'", TextView.class);
+    target.tvHospital = Utils.findRequiredViewAsType(source, R.id.tv_hospital, "field 'tvHospital'", TextView.class);
+    target.tvDepartment = Utils.findRequiredViewAsType(source, R.id.tv_department, "field 'tvDepartment'", TextView.class);
+    target.lenAge = Utils.findRequiredViewAsType(source, R.id.len_age, "field 'lenAge'", TextView.class);
+    view = Utils.findRequiredView(source, R.id.layout_pic, "field 'layoutPic' and method 'onClick'");
+    target.layoutPic = Utils.castView(view, R.id.layout_pic, "field 'layoutPic'", LinearLayout.class);
+    view2131558543 = view;
+    view.setOnClickListener(new DebouncingOnClickListener() {
+      @Override
+      public void doClick(View p0) {
+        target.onClick(p0);
+      }
+    });
+    view = Utils.findRequiredView(source, R.id.layout_tell, "field 'layoutTell' and method 'onClick'");
+    target.layoutTell = Utils.castView(view, R.id.layout_tell, "field 'layoutTell'", LinearLayout.class);
+    view2131558544 = view;
+    view.setOnClickListener(new DebouncingOnClickListener() {
+      @Override
+      public void doClick(View p0) {
+        target.onClick(p0);
+      }
+    });
+    view = Utils.findRequiredView(source, R.id.layout_video, "field 'layoutVideo' and method 'onClick'");
+    target.layoutVideo = Utils.castView(view, R.id.layout_video, "field 'layoutVideo'", LinearLayout.class);
+    view2131558545 = view;
+    view.setOnClickListener(new DebouncingOnClickListener() {
+      @Override
+      public void doClick(View p0) {
+        target.onClick(p0);
+      }
+    });
+  }
+
+  @Override
+  @CallSuper
+  public void unbind() {
+    T target = this.target;
+    if (target == null) throw new IllegalStateException("Bindings already cleared.");
+
+    target.tvLeft = null;
+    target.tvCenter = null;
+    target.tvRight = null;
+    target.layoutHead = null;
+    target.imgHead = null;
+    target.tvName = null;
+    target.tvHospital = null;
+    target.tvDepartment = null;
+    target.lenAge = null;
+    target.layoutPic = null;
+    target.layoutTell = null;
+    target.layoutVideo = null;
+
+    view2131558613.setOnClickListener(null);
+    view2131558613 = null;
+    view2131558543.setOnClickListener(null);
+    view2131558543 = null;
+    view2131558544.setOnClickListener(null);
+    view2131558544 = null;
+    view2131558545.setOnClickListener(null);
+    view2131558545 = null;
+
+    this.target = null;
+  }
+}

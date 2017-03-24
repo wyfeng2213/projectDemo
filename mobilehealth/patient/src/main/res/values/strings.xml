@@ -1,0 +1,67 @@
+<resources>
+    <string name="app_name">智慧医疗(患者)</string>
+
+    <string name="JusTalkCloud_AppKey">e51a0da8289bf2c657665095</string>
+
+    <string name="MiPush_AppId">2882303761517416129</string>
+    <string name="MiPush_AppKey">5211741695129</string>
+
+    <string name="gcm_sender_id">527225413725</string>
+    <string name="homepage">首页</string>
+    <string name="service">服务</string>
+    <string name="mine">我的</string>
+    <string name="service_detail">服务详情</string>
+    <string name="str_accountbalance">账户余额</string>
+    <string name="str_health_record">健康档案</string>
+    <string name="str_alerts">消息通知</string>
+    <string name="str_recommend_friend">推荐给朋友</string>
+    <string name="tv_about">关于</string>
+    <string name="str_add">添加</string>
+    <string name="clinictime">就诊时间</string>
+    <string name="str_medical_reasons">就诊原因</string>
+    <string name="str_inspection_report">检查报告</string>
+    <string name="str_back">返回</string>
+    <string name="str_finish">完成</string>
+
+
+    <string name="log_in">Log In</string>
+    <string name="login">Login</string>
+    <string name="logout">Logout</string>
+    <string name="login_ok">Login OK</string>
+    <string name="login_failed">Login Failed</string>
+    <string name="logging_in">Logging in&#8230;</string>
+    <string name="logging_out">Logging out&#8230;</string>
+    <string name="logout_ok">Logout OK</string>
+    <string name="logouted">Your account login another device</string>
+
+    <string name="hint_username">Username</string>
+    <string name="hint_password">Password</string>
+    <string name="hint_server">Server Address</string>
+
+    <string name="detect">Detect Bandwidth</string>
+
+    <string name="choose_pic">Choose Picture Size</string>
+    <string name="min">Min</string>
+    <string name="small">Small</string>
+    <string name="large">Large</string>
+    <string name="max">Max</string>
+    <string name="ok">OK</string>
+
+    <string name="chat">Chat</string>
+
+    <string name="hint_phone_number">Phone Number</string>
+    <string name="audio_call">Audio Call</string>
+    <string name="video_call">Video Call</string>
+
+    <string name="network_address">http:router.justalkcloud.com:8080</string>
+    <string name="str_exit_procedure">再按一次退出程序</string>
+    <string name="str_crash_tip">很抱歉，程序出现异常，即将退出！</string>
+
+    <string name="get_data">确定</string>
+    <string name="in_dialog">在Dialog中显示</string>
+
+    <string-array name="indicator_string_array">
+        <item>公历</item>
+        <item>农历</item>
+    </string-array>
+</resources>
